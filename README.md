@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m Saurav Kumar, a student and backend develope
 ### Student Management Service
 - **Description:** Developed a backend service for managing student enrollment and records.
 - **Technologies Used:** Flask, MySQL, Python
-- **Link:** [Link to the project repository]
+- **Link:** [https://github.com/saurav0813/Student-Enrollment-Service]
 
 ### Web Image Scraper
 - **Description:** Created a web scraper to extract images from specified websites and store them locally.
